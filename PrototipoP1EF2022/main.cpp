@@ -1,6 +1,5 @@
 #include <iostream>
 #include "usuario.h"
-#include "catalogos.h"
 using namespace std;
 
 
@@ -29,7 +28,11 @@ int main()
         << "\n\t\t\tIngrese su opcion: ";
    int opcionMenu;
 
+{
 
+
+
+}
 
    cin >> opcionMenu;
 
