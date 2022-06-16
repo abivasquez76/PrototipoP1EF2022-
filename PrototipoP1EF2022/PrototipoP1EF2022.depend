@@ -26,3 +26,35 @@
 	<iomanip>
 	<cstdlib>
 
+1655416276 source:c:\users\abiva\desktop\prototipop1ef2022\src\datosusuario.cpp
+	"DatosUsuario.h"
+	"usuario.h"
+	<cstring>
+	<iostream>
+
+1655416276 source:c:\users\abiva\desktop\prototipop1ef2022\src\usuario.cpp
+	"usuario.h"
+	"DatosUsuario.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1655416276 c:\users\abiva\desktop\prototipop1ef2022\include\datosusuario.h
+	<iostream>
+
+1655416221 c:\users\abiva\desktop\prototipop1ef2022\include\usuario.h
+
+1655416308 source:c:\users\abiva\desktop\prototipop1ef2022\main.cpp
+	<iostream>
+	"usuario.h"
+
+1655416355 source:c:\users\abiva\desktop\prototipop1ef2022\src\catalogos.cpp
+	"catalogos.h"
+
+1655416355 c:\users\abiva\desktop\prototipop1ef2022\include\catalogos.h
+
