@@ -205,9 +205,7 @@ void modificarRegistroUs( fstream &verificarArchivoUsuario )
 
   }
 
-
- usuario::~usuario()
-
+usuario::~usuario()
 {
     //dtor
 }
