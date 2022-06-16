@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1655412646 source:c:\users\abiva\proyectos\examenfinal\prototipop1ef2022-\ prototipop1ef2022\main.cpp
+	"usuario.h"
+	<iostream>
+
+1655406765 source:c:\users\abiva\proyectos\examenfinal\prototipop1ef2022-\ prototipop1ef2022\src\datosusuario.cpp
+	"DatosUsuario.h"
+	"usuario.h"
+	<cstring>
+	<iostream>
+
+1655406939 c:\users\abiva\proyectos\examenfinal\prototipop1ef2022-\ prototipop1ef2022\include\datosusuario.h
+	<iostream>
+
+1655405769 c:\users\abiva\proyectos\examenfinal\prototipop1ef2022-\ prototipop1ef2022\include\usuario.h
+
+1655413071 source:c:\users\abiva\proyectos\examenfinal\prototipop1ef2022-\ prototipop1ef2022\src\usuario.cpp
+	"usuario.h"
+	"DatosUsuario.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
